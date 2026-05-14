@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://get-watermaker.vercel.app'), // TODO: Substituir pelo seu domínio oficial
+  metadataBase: new URL('https://getwatermarker.getsmaker.com'), // TODO: Substituir pelo seu domínio oficial
   title: {
     default: "Watermaker | Adicionar Marca D'água em Lote Grátis",
     template: '%s | Watermaker',

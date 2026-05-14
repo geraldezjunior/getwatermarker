@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/private/'],
     },
-    sitemap: 'https://get-watermaker.vercel.app/sitemap.xml',
+    sitemap: 'https://getwatermarker.getsmaker.com/sitemap.xml',
   };
 }

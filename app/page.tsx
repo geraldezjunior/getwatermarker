@@ -7,7 +7,7 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@type': 'WebApplication',
     name: 'Watermaker',
-    url: 'https://get-watermaker.vercel.app',
+    url: 'https://getwatermarker.getsmaker.com',
     description:
       "Ferramenta online gratuita para adicionar marca d'água em lote com facilidade.",
     applicationCategory: 'MultimediaApplication',
